@@ -1,0 +1,6 @@
+@HiLoGame.Server_HostAddress = http://localhost:5084
+
+GET {{HiLoGame.Server_HostAddress}}/
+Accept: application/json
+
+###
