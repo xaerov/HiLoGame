@@ -26,7 +26,7 @@ The first player who guesses the number wins.
 
 ## Remarks
 
-I've spent just a couple of hours on the solution. Thus, it's quite raw, with no attention payed to the details, but still could demonstrate the overall design and architecture.
+I've spent just a couple of hours on the solution. Thus, it's quite raw, with no attention paid to the details, but still, it could demonstrate the overall design and architecture.
 
 # Getting Started
 
