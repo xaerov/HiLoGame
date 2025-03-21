@@ -32,7 +32,7 @@ I've spent just a couple of hours on the solution. Thus, it's quite raw, with no
 
 1. Runtime
 
-   ASP.NET Core 8 + React 19
+   ASP.NET Core 8 + React 19 + SignalR (websockets)
 
 2. Core Settings
 
