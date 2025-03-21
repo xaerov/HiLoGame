@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "hilogame.client\\hilogame.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HiLoGame.Server\\HiLoGame.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

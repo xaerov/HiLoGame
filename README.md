@@ -48,4 +48,4 @@ I've spent just a couple of hours on the solution. Thus, it's quite raw, with no
 
 # Run
 
-    Open the solution via the Visual Studio 2022. Select Multiple Startup Projects and press Run button
+    Open the solution via the Visual Studio 2022. Ensure that Startup Projects are set to multiple ones (hilogame.client and HiLoGame.Server). Then, press the Run button
